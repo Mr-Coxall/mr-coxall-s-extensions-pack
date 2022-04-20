@@ -1,0 +1,29 @@
+{
+    "name": "mr-coxall-s-extensions-pack",
+    "displayName": "Mr Coxall's Extensions Pack",
+    "description": "Mr Coxall's VS Code Extension Pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dracula-theme.theme-dracula", 
+        "hediet.vscode-drawio", 
+        "GitHub.remotehub", 
+        "PKief.material-icon-theme", 
+        "sndst00m.vscode-native-svg-preview",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-wsl",
+        "adpyke.codesnap",
+        "oderwat.indent-rainbow",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "Tyriar.luna-paint",
+        "esbenp.prettier-vscode",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+    ]
+}
